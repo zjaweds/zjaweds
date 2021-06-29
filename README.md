@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Might be using **Computing Devices or Reading Books**
+- 🔭 If not sleeping might be using **Computing Devices or Reading Books**
 - 🌱 I’m currently **Learning How to Learn**
 - 👯 I’m looking to collaborate on **Applications of Computer to solve problems in the domain of Physics**
 - 🤔 I’m looking for help with getting rid of **Unwanted data**
