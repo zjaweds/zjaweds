@@ -11,5 +11,16 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with getting rid of **Unwanted data**
 - 💬 Ask me about reasons **Why to Learn** 
 - 📫 How to reach me: https://www.linkedin.com/in/zjaweds
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I have a weapon that creates illusion
+
+
+
+<p align="center">
+  <a href="https://github.com/zjaweds?tab=followers">
+    <img src="https://img.shields.io/github/followers/zjaweds?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+</p>
+
+</br>
+
+<p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=zjaweds&show_icons=true&theme=dark" /></p>
